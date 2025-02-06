@@ -1,0 +1,42 @@
+.row {
+  display: flex;
+  width: 100%;
+}
+
+.column1 {
+  background-color: yellow;
+  flex: 1;
+  max-width: 25%;
+}
+
+.column2 {
+  background-color: darkblue;
+  flex: 2;
+  max-width: 50%;
+  color: whitesmoke;
+}
+
+.column3 {
+  background-color: lime;
+  flex: 1;
+  max-width: 25%;
+}
+
+.header {
+  background-color: blue;
+  text-align: center;
+  padding: 15px;
+  color: white;
+  border-radius: 20px;
+}
+
+.footer {
+  background-color: green;
+  padding: 10px;
+  color: white;
+}
+
+h2 {
+  /* color: red; */
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
