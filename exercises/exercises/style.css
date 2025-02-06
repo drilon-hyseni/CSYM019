@@ -23,3 +23,16 @@
 .part4 > p {
   color: green;
 }
+
+section {
+  width: 50%;
+  float: right;
+}
+
+.csym019 {
+  background-color: yellow;
+}
+
+.csym015 {
+  background-color: lightblue;
+}
